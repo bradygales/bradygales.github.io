@@ -53,9 +53,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
