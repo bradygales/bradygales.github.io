@@ -7,7 +7,7 @@ o# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : " hello"
+title                    : "Hello"
 title_separator          : "-"
 name                     : &name "Spencer (Brady) Gales"
 description              : &description "This is Brady's research website"
