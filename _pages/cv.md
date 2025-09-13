@@ -11,25 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Wake Forest University, 2019
+* B.A. in Physics, Wake Forest University, 2019
+* M.S. in Applied Mathematics, University of Arizona, 2021
+* Ph.D in Applied Mathematics, University of Arizona, 2026 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023-Present: Research Assistant
+  * University of Arizona
+  * Project: Novel Modeling and Design of Bioelectrochemical Reactor for Reverse Methanogensis
+  * Supervisor: Dr. Ingmar Riedel-Kruse
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020 - Fall 2021: Research Assistant
+  * University of Arizona
+  * Project: Contextual and Norm Agnostic Linear Bandits
+  * Supervisors: Dr. Sunder Sethuraman and Dr. Kwang-Sung Jun
+ 
+ * Fall 2017 - Spring 2019: Undergraduate Honors Thesis
+    * Wake Forest University
+    * Mathematics of the Head Injury Criterion
+    * Supervisor: Dr. John Gemmer
+      
+* Summer 2018: Summer Undergraduate Researcher} % Job title
+    * Summer Undergraduate Applied Mathematics Institute, Carnegie Mellon University
+    * Project: An Analysis of a Fair Division Protocol for Drawing Legislative Districts.
+    * Supervisors: Dr. David Offner and Dr. Jessica De Silva
   
 Skills
 ======
-* Skill 1
+* Programming: MATLAB, Julia, Python, Mathematica, Gephi, Maple
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -38,6 +49,10 @@ Skills
 
 Publications
 ======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
