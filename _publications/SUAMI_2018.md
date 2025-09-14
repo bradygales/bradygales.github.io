@@ -1,7 +1,7 @@
 ---
 title: "An analysis of a fair division protocol for drawing legislative districts"
 collection: publications
-permalink: /publication/
+permalink: /publication/SUAMI_2018
 excerpt: ' '
 date: 2018-14-11
 venue: 'arXiv preprint'
