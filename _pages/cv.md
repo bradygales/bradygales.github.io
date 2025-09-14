@@ -37,6 +37,10 @@ Research experience
     * Summer Undergraduate Applied Mathematics Institute, Carnegie Mellon University
     * Project: An Analysis of a Fair Division Protocol for Drawing Legislative Districts.
     * Supervisors: Dr. David Offner and Dr. Jessica De Silva
+
+Honors and Fellowships
+========
+
   
 Skills
 ======
