@@ -2,7 +2,7 @@
 title: "Norm-Agnostic Linear Bandits"
 collection: talks
 type: "Talk and Poster"
-permalink: /talks/2022-03-18-AISTATS2022
+permalink: /talks/AISTATS2022
 venue: " International Conference on Artificial Intelligence and Statistic (AISTATS) "
 date: 2022-03-18
 location: "Virtual"
