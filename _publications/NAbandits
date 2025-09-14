@@ -3,12 +3,11 @@ title: "Norm Agnostic Linear Bandits "
 collection: publications
 permalink: /publication/NABandits
 excerpt: ' '
-date: 2022
+date: 2022-03-20
 venue: 'Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:73-91, 2022'
-paperurl: 'http://academicpages.github.io/files/NAbandits'
+paperurl: 'http://academicpages.github.io/files/NAbandits.pdf'
 citation: 'Spencer B. Gales, Sunder Sethuraman, Kwang-Sung Jun Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:73-91, 2022.'
 ---
-
 
 [Download paper here](https://proceedings.mlr.press/v151/gales22a.html)
 
