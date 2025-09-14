@@ -19,15 +19,3 @@ Research
 ======
 + **Biofilm Bioelectrochemical Reactor for Reverse Methanogensis and Diol Synthesis** We propose a novel bioelectrochemical reactor for diol product synthesis utilizing microbia consortia for reverse methanogeneis with a bioanode as a terminal electron acceptor. For the reactor we introduce a model for design and optimization of model paramaters.
 
-
-Selected Talks and Presentations
-=======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Publications
-=======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
