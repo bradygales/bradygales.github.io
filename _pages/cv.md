@@ -33,7 +33,7 @@ Research experience
     * Mathematics of the Head Injury Criterion
     * Supervisor: Dr. John Gemmer
       
-* Summer 2018: Summer Undergraduate Researcher} % Job title
+* Summer 2018: Summer Undergraduate Researcher
     * Summer Undergraduate Applied Mathematics Institute, Carnegie Mellon University
     * Project: An Analysis of a Fair Division Protocol for Drawing Legislative Districts.
     * Supervisors: Dr. David Offner and Dr. Jessica De Silva
