@@ -9,7 +9,7 @@ redirect_from:
 ---
 Bio
 ======
-I am a PhD student at the University of Arizona in the program applied mathematics in the lab of Dr. Ingmar Riedel - Kruse.
+My name is Spencer Gales but I prefer Brady. I am a PhD student at the University of Arizona in the program applied mathematics in the lab of Dr. Ingmar Riedel - Kruse.
 
 Research Interests
 ======
