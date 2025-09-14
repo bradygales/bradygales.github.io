@@ -38,9 +38,10 @@ Research experience
     * Project: An Analysis of a Fair Division Protocol for Drawing Legislative Districts.
     * Supervisors: Dr. David Offner and Dr. Jessica De Silva
 
-Honors and Fellowships
+Selected Awards and Fellowships
 ========
-
+* Roots for Resiliance Data Science Scholarship 2021
+* NITMB Travel Award
   
 Skills
 ======
