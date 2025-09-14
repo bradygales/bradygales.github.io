@@ -13,7 +13,7 @@ My name is Spencer Gales but I prefer Brady. I am a PhD student at the Universit
 
 Research Interests
 ======
-Mathematical modeling, computational biology, synthetic biology, electrochemical engineering, 
+Mathematical modeling, computational biology, synthetic biology, electrochemical engineering. 
 
 Research 
 ======
