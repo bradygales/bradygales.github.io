@@ -4,9 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Primary-lecturer
 venue: "University of Arizona, Department of Mathematics"
-location: "Tucson, Az"
+location: "Tucson, AZ"
 ---
-Courses taught as primary instructor:
 
 
 University of Arizona
