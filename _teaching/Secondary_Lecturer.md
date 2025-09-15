@@ -4,9 +4,8 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/Secondary_Lecturer
 venue: "University of Arizona, Department of Mathematics" 
-location: "Tucson, Az"
+location: "Tucson, AZ"
 ---
-Courses taught as a secondary instructor:
 
 Teaching Assistant
 ======
