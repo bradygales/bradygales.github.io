@@ -3,8 +3,7 @@ title: "Secondary Lecturer"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/Secondary_Lecturer
-venue: "University of Arizona, Department of Mathematics"
-date: 
+venue: "University of Arizona, Department of Mathematics" 
 location: "Tucson, Az"
 ---
 
