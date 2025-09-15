@@ -3,7 +3,7 @@ title: "Primary Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Primary-lecturer
-venue: "University of Arizona, Department of Methematics"
+venue: "University of Arizona, Department of Mathematics"
 location: "Tucson, Az"
 ---
 
