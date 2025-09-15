@@ -6,7 +6,7 @@ permalink: /teaching/Secondary_Lecturer
 venue: "University of Arizona, Department of Mathematics" 
 location: "Tucson, Az"
 ---
-
+Courses taught as a secondary instructor:
 
 Teaching Assistant
 ======
