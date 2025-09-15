@@ -7,7 +7,6 @@ venue: "University of Arizona, Department of Mathematics"
 location: "Tucson, Az"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Teaching Assistant
 ======
