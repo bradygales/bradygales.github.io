@@ -46,12 +46,7 @@ Selected Awards and Fellowships
 Skills
 ======
 * Programming: MATLAB, Julia, Python, Mathematica, Gephi, Maple
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -59,7 +54,7 @@ Publications
   {% endfor %}</ul>
 
   
-Talks
+Selected Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -71,6 +66,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* University of Arizona SIAM Chapter 
+     * President (Fall 2021 - Spring 2022)
+     * Vice President (Fall 2020 - Spring 2022) and secondaryc oordinator for Brown Bag Seminar
+* Wake Forest University
+     * Pi Mu Epsilon and Math Club President (2018-2019)
+
