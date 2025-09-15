@@ -7,6 +7,7 @@ venue: "University of Arizona, Department of Mathematics"
 location: "Tucson, Az"
 ---
 
+
 University of Arizona
 ======
 New Start Summer Program - Math 112, College Algebra Concepts and Applications (Summer 2021)
