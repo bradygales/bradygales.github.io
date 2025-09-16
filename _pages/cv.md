@@ -44,7 +44,7 @@ Research experience
 Selected Awards and Fellowships
 ========
 * Roots for Resiliance Data Science Scholarship 2021
-* NITMB Travel Award
+* NITMB Travel Award, 2025
   
 Skills
 ======
