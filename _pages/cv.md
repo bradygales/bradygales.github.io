@@ -73,7 +73,7 @@ Academic Service and Leadership
 ======
 * University of Arizona SIAM Chapter 
      * President (Fall 2021 - Spring 2022)
-     * Vice President (Fall 2020 - Spring 2022) and secondaryc oordinator for Brown Bag Seminar
+     * Vice President (Fall 2020 - Spring 2021) and secondary coordinator for Brown Bag Seminar
 * Wake Forest University
      * Pi Mu Epsilon and Math Club President (2018-2019)
 
