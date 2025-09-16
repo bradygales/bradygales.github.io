@@ -11,10 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Wake Forest University, 2019
-* B.A. in Physics, Wake Forest University, 2019
-* M.S. in Applied Mathematics, University of Arizona, 2021
 * Ph.D in Applied Mathematics, University of Arizona, 2026 (expected)
+* M.S. in Applied Mathematics, University of Arizona, 2021
+* B.A. in Physics, Wake Forest University, 2019
+* B.S. in Mathematics, Wake Forest University, 2019
+
+
+
 
 Research experience
 ======
