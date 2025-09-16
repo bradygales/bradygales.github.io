@@ -17,7 +17,7 @@ Mathematical modeling, computational biology, synthetic biology, electrochemical
 
 Research 
 ======
-+ **Biofilm Bioelectrochemical Reactor for Reverse Methanogensis and Diol Synthesis** We propose a novel bioelectrochemical reactor for diol product synthesis utilizing microbia consortia for reverse methanogeneis with a bioanode as a terminal electron acceptor. For the reactor we introduce a model for design and optimization of model paramaters.
++ **Biofilm Bioelectrochemical Reactor for Reverse Methanogenesis and Diol Synthesis** We propose a novel bioelectrochemical reactor for diol product synthesis utilizing microbial consortia for reverse methanogenesis with a bioanode as a terminal electron acceptor. For the reactor we introduce a model for design and optimization of model parameters.
 
 Chemical Reactions and General Reactor design
 ![ReactorMEC](/images/Figure1.jpeg)
