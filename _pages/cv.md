@@ -43,8 +43,11 @@ Research experience
 
 Selected Awards and Fellowships
 ========
-* Roots for Resiliance Data Science Scholarship 2021
 * NITMB Travel Award, 2025
+* Roots for Resiliance Data Science Scholarship, 2021
+* Starr Travel Grant, Wake Forest University, 2019
+* SIAM Travel Grant, 2018
+* RTG Topology and Geomoetry Workshop Travel Grant, University of Notre Dame, 2018
   
 Skills
 ======
