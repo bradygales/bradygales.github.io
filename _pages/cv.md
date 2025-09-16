@@ -20,7 +20,7 @@ Research experience
 ======
 * Fall 2023-Present: Research Assistant
   * University of Arizona
-  * Project: Novel Modeling and Design of Bioelectrochemical Reactor for Reverse Methanogensis
+  * Project: Novel Modeling and Design of Bioelectrochemical Reactor for Reverse Methanogenesis
   * Supervisor: Dr. Ingmar Riedel-Kruse
 
 * Spring 2020 - Fall 2021: Research Assistant
